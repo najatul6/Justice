@@ -1,0 +1,161 @@
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.Garamond{
+    font-family: 'EB Garamond', serif;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.ancor{
+    color: #707070;
+}
+
+.active{
+    color: #B68C5A !important;
+}
+
+/* Header_Section */
+.my_btn{
+    width: 220px;
+    height: 64px;
+    border-radius: 5px;
+    background: #B68C5A;
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.menubar a{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.menubar a:hover{
+    color: #B68C5A;
+}
+
+/* Banner_Section */
+.banner_section {
+    background-image: url(img/banner/banner.png);
+    background-repeat: no-repeat;
+    height: 550px;
+    background-size: cover;
+    opacity: 60%;
+}
+
+.banner_txt{
+    text-align: center;
+}
+
+
+input[type=search]{
+    color: #B68C5A;
+    border: 2px solid #B68C5A;
+}
+
+.frm{
+    width: 150px;
+    height: 64px;
+    background-color: #FFFFFF;
+    color: #B68C5A;
+    border: 2px solid #B68C5A;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.frm:hover{
+    background-color: #B68C5A;
+}
+
+.banner_txt h1{
+    font-size: 72px;
+    font-weight: 800;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'EB Garamond', serif;
+}
+
+.banner_txt p{
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    color: #E7E7E7;
+}
+
+/* Legal_Section */
+.legal_Section{
+    margin-top: 40px;
+}
+.legal_Section h1{
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center; 
+    font-family: 'EB Garamond', serif;   
+}
+
+.legal_Section p{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.img_section{
+    margin-top: 40px;
+}
+
+.legal_area{
+    border: 1px solid #B68C5A;
+    padding: 20px;
+}
+
+.legal_area h2{
+    font-family: 'EB Garamond', serif;   
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.legal_area p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+/* Client_Feedback_Section */
+.client_txt_area{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.slider_txt_profile{
+    margin: 0 auto;
+}
+
+.slider_txt_profile img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid #FFFFFF;
+}
+
+.slider_txt_profile h5{
+    font-family: 'EB Garamond', serif; 
+    font-size: 32px;
+    font-weight: 800;
+    color: #FFFFFF;
+}
+
+.slider_txt_profile h6{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.slider_txt_profile p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
